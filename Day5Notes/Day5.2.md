@@ -4,7 +4,7 @@ It has replication and scaling(scale-in & scale-out)
 2 types:
 1. master node
 2. Worker node
-
+![alt text](image-17.png)
 We have to create cluster In docker swarm
 
 ![alt text]({76CCAC5F-B630-4F4B-A0F6-BAB5F193789D}.png)
